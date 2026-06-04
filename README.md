@@ -54,3 +54,17 @@ Although the project was never fully expanded beyond its original scope it was a
 ## Source Code Notice
 
 Since I do not want others modifying this project and redistributing it as their own work, the Unity scene and source files are not included in this repository. However, you are welcome to use the sprites and artwork included with proper credit.
+
+## Rights
+
+Copyright © 2024 ArcX , Arjun Chodapaneedi
+
+This project is provided for viewing and portfolio purposes only.
+
+Please do not:
+- Redistribute this project or any modified version
+- Rebrand or claim ownership of any part of this project
+- Use this project commercially (other than videos such as "Let's Plays")
+
+You Can:
+- View the source code for educational and portfolio reference only
